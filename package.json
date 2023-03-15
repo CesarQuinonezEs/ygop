@@ -1,0 +1,21 @@
+{
+  "name": "ygop",
+  "version": "1.0.0",
+  "description": "yugioh prices app for community",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarQuinonezEs/ygop.git"
+  },
+  "author": "cesar Quinonez Espinoza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarQuinonezEs/ygop/issues"
+  },
+  "homepage": "https://github.com/CesarQuinonezEs/ygop#readme"
+}
